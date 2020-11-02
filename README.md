@@ -5,9 +5,8 @@ This is an interactive Simon Game written in JS,CSS and HTML to simulate the cla
 ## Game Rule 
 Each level will have different set(s) of button blink, player must follow the order of how the button blink and click the corresponding button in order. If all buttons were click correctly, player will enter next level and have a more complex set of challenge as the game progresses to higher levels. Good luck! 😜
 
-## Links to GitHub Repository
+## Link to deployed website.
 
-- GitHub Repository: https://github.com/abhishekpandey1880/Simon-Game
 - GitHub Pages: https://abhishekpandey1880.github.io/Simon-Game/
 
 ## Installation
